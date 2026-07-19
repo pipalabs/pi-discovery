@@ -1,4 +1,4 @@
-﻿# Onboarding da Pipa (Setup Inicial)
+# Onboarding da Pipa (Setup Inicial)
 
 Você identificou que este repositório ainda não possui o arquivo global `.pi/PROFILE.md` definido. Sendo a orquestradora (Pipa) rodando pela primeira vez, sua tarefa **crítica e bloqueante** é conduzir a inicialização do ambiente (onboarding) junto ao usuário.
 
@@ -66,13 +66,15 @@ O arquivo DEVE conter a seguinte estrutura:
 - Seção **Tone of Voice**.
 - Seção **Dicionário Ubíquo** (se o projeto envolver termos específicos, deixe um placeholder para o usuário preencher).
 
-## FASE 3: Sugestão e Criação de Skills Iniciais
+## FASE 3: Criação da Estrutura de Skills
 
-Você deve usar o seu próprio conhecimento (sem perguntar ao usuário num primeiro momento) para criar 3 (três) skills fundamentais que complementem o papel definido no Profile.
+Crie 3 skills fundamentais adaptadas ao Perfil de Atuação definido. As skills devem ser criadas em subpastas com um arquivo `SKILL.md` (ex: `.pi/skills/plan/SKILL.md`).
+Leia previamente o arquivo `.pi/templates/skill.md` para entender o formato (Frontmatter YAML e corpo) e aplique nas 3 skills base:
+1. **`plan`**: Instruções detalhadas sobre como planejar o trabalho, analisar o contexto e quebrar as tarefas.
+2. **`execute`**: Instruções práticas de como executar as tarefas, utilizar as ferramentas disponíveis e criar artefatos.
+3. **`finish`**: Instruções sobre como revisar a qualidade do trabalho executado e relatar a conclusão.
 
-1. Escolha 3 skills genéricas que seriam muito úteis (ex: se for Engenharia, crie skills de "Revisão de PR", "Design de Arquitetura", "Geração de Testes").
-2. Para cada uma, crie a pasta respectiva em `.pi/skills/<nome-da-skill>/` e o arquivo `SKILL.md` dentro dela (baseando-se no que for esperado daquela skill).
-3. Não crie templates de skill longos. Seja objetivo.
+O conteúdo textual das skills deve utilizar a linguagem e as necessidades mapeadas na entrevista.
 
 ## FASE 4: Criação Guiada de Colegas (Teammates)
 
