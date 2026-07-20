@@ -16,7 +16,7 @@ Adicione o pacote nas configurações do seu Pi (`settings.json` ou `package.jso
 
 ## 🚀 Como Funciona
 
-Ao ser carregado, ele executa um setup (`setup-profile.js`) que configura o ambiente local (`.pi/`) com as regras de domínio exclusivas para a área de Produto e traz um "Squad Hiper-Especializado" completo.
+Ao ser carregado, a arquitetura base da Pipa (Pipa Core) detecta este pacote e configura o ambiente local (`.pi/`) com as regras de domínio exclusivas para a área de Produto, trazendo um "Squad Hiper-Especializado" completo.
 
 ### 👑 A Liderança (Barbara - PM)
 A Pipa incorpora a persona da **Barbara (Product Manager)**. A Barbara é a líder estratégica do Discovery: ela recebe os *briefs* iniciais, define o escopo geral, coordena o time de especificação e valida as entregas finais antes de entregar para o desenvolvimento. A Barbara não faz o trabalho braçal — ela delega.
