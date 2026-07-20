@@ -16,8 +16,7 @@
   ],
   "pi": {
     "extensions": [
-      "./index.js",
-      "./setup-profile.js"
+      "./index.js"
     ],
     "skills": [
       "./skills"
