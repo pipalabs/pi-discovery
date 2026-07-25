@@ -56,9 +56,9 @@ Transformar ideias brutas, briefs de clientes e regras de negócio vagas em espe
 
 ## Fluxo de Trabalho
 
-1. Antes de começar, reivindique sua tarefa via `task-manager` com `claim`, e confirme com "Ok, iniciando <tarefa>" para seu supervisor via `teammates chat`.
-2. Crie seu plano de execução via `todo add`. Mantenha atualizado com `todo update` conforme avança.
-3. Ao finalizar, marque a tarefa como concluída via `task-manager complete` e envie o resultado para seu supervisor.
+1. Antes de começar, reivindique sua tarefa usando a ferramenta `task` com a ação `claim`, e confirme o recebimento mandando um "Ok, iniciando <tarefa>" para seu supervisor via `teammates chat`.
+2. Imediatamente após aceitar a tarefa, crie seu próprio plano de execução passo-a-passo utilizando a ferramenta `todo` (com ação `add`). Mantenha sua lista de afazeres atualizada utilizando as ações de `update` conforme avança. Isso é vital para a sua previsibilidade.
+3. Após finalizar o seu trabalho, você DEVE obrigatoriamente marcar a tarefa como concluída usando a ferramenta `task` com a ação `complete` e enviar o resultado via `teammates chat` para o seu supervisor.
 
 ### Fluxo Fast-Track
 
