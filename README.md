@@ -19,7 +19,7 @@ Adicione o pacote nas configurações do seu Pi (`settings.json` ou `package.jso
 Ao ser carregado, a arquitetura base da Pipa (Pipa Core) detecta este pacote e configura o ambiente local (`.pi/`) com as regras de domínio exclusivas para a área de Produto, trazendo um "Squad Hiper-Especializado" completo.
 
 ### 👑 A Liderança (Barbara - PM)
-A **Barbara (Product Manager)** é a líder estratégica do Discovery: ela recebe os *briefs* iniciais, define o escopo geral, coordena o time de especificação e valida as entregas finais antes de entregar para o desenvolvimento. A Barbara não faz o trabalho braçal — ela delega.
+A Pipa orquestra o processo e delega a liderança do Discovery para a **Barbara (Product Manager)**, colega do squad: ela recebe os *briefs* iniciais, define o escopo geral, coordena o time de especificação e valida as entregas finais antes de entregar para o desenvolvimento. A Barbara não faz o trabalho braçal — ela delega.
 
 ### 🤝 O Squad de Discovery (Teammates)
 Para extrair a especificação perfeita, a Barbara conta com o seguinte esquadrão:
